@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html body{
+    height: 100%;
+    width: 100%;
+   
+}
+#pacman{
+    height: 23px;
+    width: 25px;
+    position:absolute;
+    top: 33px;
+    left: 400px;
+}
